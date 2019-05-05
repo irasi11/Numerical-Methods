@@ -1,0 +1,75 @@
+﻿  MO8.cpp
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(27): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(27): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(28): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(28): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(29): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(29): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(33): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(33): warning C4305: "argument": obcięcie z "double" do "T"
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\derivative_calc.h(25): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  c:\users\dominik\source\repos\mo8\mo8\derivative_calc.h(23): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(29): note: zobacz odwołanie do funkcji szablon; wystąpienie „T DerivativeCalc<T>::first_deriv_forward(T,T,T,T)” jest kompilowane
+          with
+          [
+              T=float
+          ]
+  c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(27): note: zobacz odwołanie do klasy klasa szablon; wystąpienie „DerivativeCalc<float>” jest kompilowane
+c:\users\dominik\source\repos\mo8\mo8\derivative_calc.h(26): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\derivative_calc.h(13): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  c:\users\dominik\source\repos\mo8\mo8\derivative_calc.h(11): note: podczas kompilowania funkcji składowej „<Nieznany>” klasy klasa <Nieznany>
+  c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(27): note: zobacz odwołanie do funkcji szablon; wystąpienie „T DerivativeCalc<T>::first_deriv_backward(T,T,T,T)” jest kompilowane
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\derivative_calc.h(14): warning C4244: "return": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MO8.vcxproj -> C:\Users\Dominik\source\repos\MO8\x64\Debug\MO8.exe

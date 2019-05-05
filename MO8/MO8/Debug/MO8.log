@@ -1,0 +1,27 @@
+﻿  MO8.cpp
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(23): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(24): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(25): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(26): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dominik\source\repos\mo8\mo8\mo8.cpp(27): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  MO8.vcxproj -> C:\Users\Dominik\source\repos\MO8\Debug\MO8.exe
