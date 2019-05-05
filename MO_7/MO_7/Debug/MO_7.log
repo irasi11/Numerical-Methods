@@ -1,0 +1,4 @@
+﻿  MetodyL.cpp
+c:\users\dominik\source\repos\mo_7\mo_7\metodyl.cpp(37): warning C4101: "xSum": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\dominik\source\repos\mo_7\mo_7\metodyl.cpp(37): warning C4101: "bSum": lokalna zmienna, do której nie istnieje odwołanie
+  MO_7.vcxproj -> C:\Users\Dominik\source\repos\MO_7\Debug\MO_7.exe
